@@ -6,3 +6,6 @@ My first "hello world" in GitHub
 穷尽千里诗酒荒
 
 stay foolish stay hungry
+
+hello world
+
