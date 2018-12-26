@@ -7,9 +7,5 @@ My first "hello world" in GitHub
 
 stay foolish stay hungry
 
-<<<<<<< HEAD
-hello world
-
-=======
 鱼跃此时海，花开彼岸天
->>>>>>> 83746389021e1ed418d2807eda240fcadd956808
+
